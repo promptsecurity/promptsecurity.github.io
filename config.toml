@@ -1,0 +1,4 @@
+baseURL = 'https://www.promptsecurity.ca/'
+languageCode = 'en-us'
+title = 'Prompt Security'
+theme = "fresh"
